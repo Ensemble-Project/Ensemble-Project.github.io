@@ -1,38 +1,11 @@
-# 室内楽演奏会@文京シビック小ホール
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Ensemble-Project/Ensemble-Project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ensemble-Project/Ensemble-Project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 概要
+## 会場 文京シビック2階 小ホール
+ * 会場へのアクセスは[こちら](http://bunkyocivichall.jp/access)
+## 日程 2018年7月21日
+## AM 11:00 開場/開演 (予定)
+## PM 16:00 終演(予定)
+# 演奏曲目
+## 交響曲第45番『告別』/ ハイドン
+## 夏山の一日 / ボザ
+## ピアノ五重奏 へ短調 Op.34 より1楽章 / ブラームス
+## フルートとヴィオラ、ハープのためのソナタ / ドビュッシー
