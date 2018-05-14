@@ -1,6 +1,7 @@
 # 概要
 ### 文京シビック2階 小ホール
-* 会場へのアクセスは[こちら](http://bunkyocivichall.jp/access)  
+* 会場へのアクセスは[こちら](http://bunkyocivichall.jp/access)
+
 ### 2018年7月21日 土曜日
 ### AM 11:00 開場/開演 (予定)
 ### PM 16:00 終演(予定)  
