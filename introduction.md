@@ -3,10 +3,10 @@
 # 曲/奏者紹介
 ## 夏山の一日 / ボザ
 
-<div style="text-align: center;">
-
-### ボザ
-
+<div style="text-align: right;">
+<font size="5">
+ボザ
+</font>
 </div>
 
 * フランス近代音楽家ウジェーヌ・ボザによるフルート4重奏曲です。全4楽章からなります。
