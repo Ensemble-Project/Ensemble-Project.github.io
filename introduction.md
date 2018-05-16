@@ -4,10 +4,9 @@
 ## 夏山の一日 / ボザ
 
 <div style="text-align: right;">
-p {
-font-size: x-large
-}
+<font size="5">
 ボザ
+</font>
 </div>
 
 * フランス近代音楽家ウジェーヌ・ボザによるフルート4重奏曲です。全4楽章からなります。
