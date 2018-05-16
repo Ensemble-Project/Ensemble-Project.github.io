@@ -466,13 +466,25 @@ dd p:first-child {
   margin-top: 0;
 }
 
+  text-align: center;
+  margin: 1.1em 0 .38em;
+  line-height: 1.2;
 .header-level-1 {
   font-size: 1.85em;
   border-bottom: .2em double #d3ccc1;
   color: #7c334f;
   text-align: center;
   margin: 1.1em 0 .38em;
-  line-height: 1.2;
+  line-height: 1.2;u.header-level-5 {
+  margin: 20px 0 10px;
+  font-size: 1.45em;
+}
+
+.header-level-6 {
+  font-size: 1.2em;
+  margin: -60px 15px 10px;
+  color: #cd596b;
+}
   padding-bottom: 10px
 }
 
@@ -486,10 +498,14 @@ dd p:first-child {
 }
 
 .header-level-3 {
+  font-size: 1.58em;
+  color: #7c334f;
+  margin: 20px 0 10px;
   font-size: 1.45em;
 }
 
 .header-level-4 {
+  margin: .6em 0;
   font-size: 1.2em;
   color: #cd596b;
 }
@@ -501,6 +517,7 @@ dd p:first-child {
 }
 
 .header-level-6 {
+  margin: .8em 0;
   font-size: .85em;
   font-style: italic;
 }
