@@ -10,13 +10,6 @@
 
 
 # 演奏曲目
-### [タイムテーブル一覧](timetable) 
-### [各曲・奏者紹介](introduction)
+## [タイムテーブル一覧](timetable) 
+## [各曲・奏者紹介](introduction)
 * [test](test)
-
-# 
-## 
-###
-#### 
-##### 
-###### 
