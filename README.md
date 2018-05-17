@@ -4,10 +4,12 @@
 ```Markdown
 # Header level1
 * list
-** list
-*** list
-1. 番号付きlist
+  * list
+    * list
+1. 番号つきlist
 2. 番号つきlist
+  1. 番号つきlist
+    3. 番号つきlist
 ## Header level2
 ### Header level3
 #### Header level4
