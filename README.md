@@ -9,8 +9,7 @@
 
 1. 番号つきlist
 2. 番号つきlist
-  1. 番号つきlist
-    3. 番号つきlist
+3. 番号つきlist
 
 ## Header level2
 
